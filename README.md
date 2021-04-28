@@ -6,8 +6,25 @@
 ## Branches
 
 - Empirical Sciences
-- Formal Science
   - Natural Science
-  - Social Science
     - Basic
-      - ww
+      - Physics
+      - Chemistry
+      - Biology
+      - Earth Science
+      - Space Science
+    - Applied
+      - Engineering
+      - Agricultural Science
+      - Medicine
+      - Materials Science
+  - Social science
+    - Basic
+      - Anthropology
+      - Economics
+      - Political Science
+      - Sociology
+      - Human Geography
+      - Psychology   
+    - Applied
+      - Business    
